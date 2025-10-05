@@ -1,0 +1,23 @@
+{
+  "appName": "Bank Branch Finder",
+  "description": "Find the nearest branch of your selected bank in your city or near you.",
+  "selectBank": "Select Bank",
+  "search": "Search",
+  "searchByCity": "Search by City",
+  "findNearestBranch": "Find Nearest Branch",
+  "cityPlaceholder": "Enter city name (in Hebrew)",
+  "you": "You",
+  "closestBranches": "Closest Branches",
+  "yourLocation": "Your Location",
+  "phone": "Phone",
+  "handicapAccess": "Handicap Access",
+  "distance": "km away",
+  "foundBranches": "Found {{count}} branches in {{city}}",
+  "noBranchesFound": "No branches found in {{city}}",
+  "searching": "Searching...",
+  "language": "Language",
+  "selectCity": "Select a city",
+  "enterCityName": "Enter city name",
+  "closest": "Closest"
+}
+  

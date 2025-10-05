@@ -1,0 +1,23 @@
+{
+  "appName": "מאתר סניפי בנק",
+  "description": "מצא את הסניף הקרוב ביותר של הבנק שבחרת בעיר שלך או לידך.",
+  "selectBank": "בחר בנק",
+  "search": "חפש",
+  "searchByCity": "חיפוש לפי עיר",
+  "findNearestBranch": "מצא סניף קרוב",
+  "cityPlaceholder": "הכנס שם עיר (בעברית)",
+  "you": "אתה",
+  "closestBranches": "סניפים קרובים",
+  "yourLocation": "המיקום שלך",
+  "phone": "טלפון",
+  "handicapAccess": "נגישות לנכים",
+  "distance": "ק\"מ מכאן",
+  "foundBranches": "נמצאו {{count}} סניפים ב{{city}}",
+  "noBranchesFound": "לא נמצאו סניפים ב{{city}}",
+  "searching": "מחפש...",
+  "language": "שפה",
+  "selectCity": "בחר עיר",
+  "enterCityName": "הכנס שם עיר",
+  "closest": "הקרוב ביותר"
+}
+  

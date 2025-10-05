@@ -1,0 +1,23 @@
+{
+  "appName": "مكتشف فروع البنوك",
+  "description": "اعثر على أقرب فرع للبنك الذي اخترته في مدينتك أو بالقرب منك.",
+  "selectBank": "اختر البنك",
+  "search": "بحث",
+  "searchByCity": "البحث حسب المدينة",
+  "findNearestBranch": "العثور على أقرب فرع",
+  "cityPlaceholder": "أدخل اسم المدينة (بالعربية)",
+  "you": "أنت",
+  "closestBranches": "أقرب الفروع",
+  "yourLocation": "موقعك",
+  "phone": "الهاتف",
+  "handicapAccess": "إمكانية الوصول للمعاقين",
+  "distance": "كم من هنا",
+  "foundBranches": "تم العثور على {{count}} فروع في {{city}}",
+  "noBranchesFound": "لم يتم العثور على فروع في {{city}}",
+  "searching": "جاري البحث...",
+  "language": "اللغة",
+  "selectCity": "اختر مدينة",
+  "enterCityName": "أدخل اسم المدينة",
+  "closest": "الأقرب"
+}
+  
